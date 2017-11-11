@@ -1,5 +1,4 @@
 /*global describe, it*/
-require "./index.js"
 
 describe('functions', () => {
   describe('happyHolidays', () => {
