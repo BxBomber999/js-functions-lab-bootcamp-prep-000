@@ -1,4 +1,5 @@
 /*global describe, it*/
+require("./index")
 
 describe('functions', () => {
   describe('happyHolidays', () => {
