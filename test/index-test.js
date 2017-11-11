@@ -1,5 +1,5 @@
 /*global describe, it*/
-require("./index")
+require("/.index")
 
 describe('functions', () => {
   describe('happyHolidays', () => {
